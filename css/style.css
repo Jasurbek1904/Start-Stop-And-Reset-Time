@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(238, 111, 57);
+    text-align: center;
+    color: white;
+    margin-top: 150px;
+}
+
+button {
+    border: 1px solid white;
+    padding: 10px 40px;
+    margin: 15px;
+    border-radius: 5px;
+    background-color: rgb(238, 111, 57);
+    color: white;
+}
+
+button:hover {
+    border: 2px solid orangered;
+}
